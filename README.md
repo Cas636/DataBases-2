@@ -17,7 +17,7 @@ Welcome to the official repository for our **Databases 2** course project. This 
 
 ## Workshop 1
 
-You can find the deliverables and documentation for **Workshop 1** [here](./WorkShops/WorkShop_1.pdf).
+You can find the deliverables and documentation for **Workshop 1** [here](./WorkShops/Workshop_1.pdf).
 
 
 ## Technologies Used
