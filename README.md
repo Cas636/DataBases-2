@@ -15,14 +15,11 @@ Welcome to the official repository for our **Databases 2** course project. This 
 | Stivel Pinilla Puerta          | 20191020027  | spinillap@udistrital.edu.co   |
 
 
-
-> Please update the above table with all the group members' real information.
-
 ## Workshop 1
 
 You can find the deliverables and documentation for Workshop 1 in the following path:
 ---
-/WorkShops/Workshop1/
+/WorkShops/Workshop1
 ---
 
 ## Technologies Used
