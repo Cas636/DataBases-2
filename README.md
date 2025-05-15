@@ -19,6 +19,9 @@ Welcome to the official repository for our **Databases 2** course project. This 
 
 You can find the deliverables and documentation for **Workshop 1** [here](./WorkShops/Workshop_1.pdf).
 
+## CatchUp
+
+You will find the progress and documentation for **CatchUp** [here](./CatchUp/Proyect.pdf).
 
 ## Technologies Used
 
